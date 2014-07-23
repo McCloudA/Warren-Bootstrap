@@ -1,0 +1,170 @@
+/* Carousel Slide Image Alignment Properties
+*****************************/
+
+.carousel-inner > .item > .carousel-image {
+    width: 100%;
+    height: 500px; 
+    text-align: center;
+    align: center;
+}
+
+
+/* Carousel Slide Images
+*****************************/
+
+#csl-item1 {
+    background:url("../img/0-1_carousel/carousel-1-b.jpg"); 
+    background-repeat: no-repeat;   
+    background-position: center top; 
+}
+
+#csl-item2 {
+    background:url("../img/0-1_carousel/carousel-2-b.jpg");
+    /*background-size: 35%;*/
+    background-repeat: no-repeat;   
+    background-position: center top;  
+}
+
+#csl-item3 {
+    background:url("../img/0-1_carousel/carousel-3-b.jpg");
+    /*background-size: 35%;*/
+    background-repeat: no-repeat;   
+    background-position: 50% 40%;
+}
+
+#csl-item4 {
+    background:url("../img/0-1_carousel/carousel-1-c.jpg");
+    /*background-size: 35%; */
+    background-repeat: no-repeat;   
+    background-position: center top; 
+}
+
+#csl-item5 {
+    background:url("../img/0-1_carousel/carousel-2-c.jpg"); 
+    background-repeat: no-repeat;   
+    background-position: center top; 
+}
+
+#csl-item5 {
+    background:url("../img/0-1_carousel/carousel-3-c.jpg"); 
+    background-repeat: no-repeat;   
+    background-position: center top; 
+}
+
+/* Carousel Background Image
+*****************************/
+.carousel .item {
+    background-image: url("../img/background.png");
+    background-repeat:repeat;
+}
+
+
+
+/* Top Space Buffer on Ref. Page & Footer
+*****************************/
+  .top-space {
+     margin-top: 60px;
+  }
+
+  .top-space-2 {
+     margin-top: 120px;
+  }
+
+  .top-space-home {
+     margin-top: -40px;
+  }
+
+/* About Me Image Margin
+*****************************/
+.image-margin {
+  margin: 0 20px 20px 0;
+}
+
+/* Ebook.php Cover Image Margin
+*****************************/
+.image-margin-2 {
+  margin: 0 40px 20px 0;
+}
+
+/* Ebook.php Line Spacing
+*****************************/
+
+.tall {
+  line-height: 175%;
+}
+
+
+/* Why-Model.php  Image Margin
+*****************************/
+.image-margin-3 {
+  margin: 0 0 20px 20px;
+}
+
+/* Why-Model.php List Margin
+*****************************/
+.why {
+
+}
+
+ul.why li {
+  font-weight: 500;
+}
+
+ul p {
+  padding: 20px 0;
+}
+
+/* Buy-Thanks112358.php Centering
+*****************************/
+
+.centering {
+  text-align: center;
+}
+
+/* center align button on Contact page
+*****************************/
+
+.centering-button {
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* Warren's 2nd Image Carousel
+*****************************/
+
+.lets-center {
+  margin-top: -20%;
+}
+
+.lets-center-2 {
+  margin-top: -10%;
+}
+
+/* Full Photo Gallery Padding
+*****************************/
+
+.side-padding {
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

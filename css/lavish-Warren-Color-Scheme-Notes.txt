@@ -1,0 +1,20 @@
+body background	 
+#EDECE6 	
+
+disabled input & button background, input addon background, nav & tabs & pagination link hover background, jumbotron background	
+#788CA3 	
+
+disabled link color, input placeholder color, dropdown header color, navbar inverse & link color
+#455C96 	
+
+nav tab link hover color
+#8E6638 	
+
+link color, primary button background, pagination active background, progress bar background, label background, panel heading color
+#444D52 	
+
+text color, legend color, dropdown link color, panel text color, code color
+#1C325E 	
+
+navbar inverse background
+#102529 	
